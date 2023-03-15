@@ -1,4 +1,4 @@
-# this file sets configuration options for our website minor changes
-title CS-340 Sample
+# this file sets configuration options for our website
+title: CS-340 Sample
 description: this is a test of CI/CD with github pages
 theme: jekyll-theme-minimal
